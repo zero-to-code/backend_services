@@ -1,0 +1,29 @@
+{
+  "name": "etl",
+  "version": "1.0.0",
+  "description": "Convert CSV data to structured JSON.",
+  "main": "index.js",
+  "scripts": {
+    "process-data": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero-to-code/backend-services.git"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "convert",
+    "extract-transform-load"
+  ],
+  "author": "kevmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero-to-code/backend-services/issues"
+  },
+  "homepage": "https://github.com/zero-to-code/backend-services#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.0"
+  }
+}
