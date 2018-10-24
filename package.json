@@ -1,0 +1,22 @@
+{
+  "name": "backend_services",
+  "version": "1.0.0",
+  "description": "This repository contains layers: A web API service layer, a data processing service layer, and a database layer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zero-to-code/backend_services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zero-to-code/backend_services/issues"
+  },
+  "homepage": "https://github.com/zero-to-code/backend_services#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
